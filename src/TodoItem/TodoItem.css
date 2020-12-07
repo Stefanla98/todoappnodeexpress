@@ -1,0 +1,24 @@
+.custom-btn {
+    margin-left:10px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.Low{
+    background-color: rgb(65, 250, 179);
+}
+
+.Medium{
+    background-color: rgb(255, 199, 154);
+}
+
+.High{
+    background-color: rgb(255, 149, 237);
+}
+
+
+.done{
+    opacity: 50%;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "38ffe525-74fb-4697-b4dc-d52c190e9902",
+    "title": "Its good",
+    "deadline": "07-12-2020",
+    "priority": "High",
+    "category": "work",
+    "isCompleted": false
+  },
+  {
+    "id": "9eeb8f7a-b550-4680-aa42-753e05d18ac4",
+    "title": "Entrepreneurial day ",
+    "deadline": "2021-02-02",
+    "priority": "Medium",
+    "category": "University",
+    "isCompleted": false
+  },
+  {
+    "id": "45c6d629-b3f8-41db-8c86-d629930a8ee2",
+    "title": "aaa",
+    "deadline": "2020-12-02",
+    "priority": "Low",
+    "category": "University",
+    "isCompleted": true
+  },
+  {
+    "id": "31432766-f262-4383-aef1-241f42a5eaa2",
+    "title": "Buy groceries",
+    "deadline": "2021-02-03",
+    "priority": "High",
+    "category": "Family",
+    "isCompleted": false
+  },
+  {
+    "id": "31f81290-072b-453a-a34b-f58b7f2e58d0",
+    "title": "Buy snacks",
+    "deadline": "2021-02-03",
+    "priority": "High",
+    "category": "Family",
+    "isCompleted": false
+  }
+]

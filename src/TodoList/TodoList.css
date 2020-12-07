@@ -1,0 +1,27 @@
+.list-container{
+    background-color:var(--primary);
+    width: 90vw;
+    margin:2vw;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.todo {
+    margin:10px;
+}
+
+.filters-container{
+    background-color: red;
+    display: flex;
+    align-self: flex-end;
+    margin-right: 5%;
+    padding: 2%;
+}
+
+.bold-white{
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    margin: 1%
+}

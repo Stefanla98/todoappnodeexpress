@@ -1,0 +1,26 @@
+:root {
+  --background: #e8e8e8;
+  --important: #f05454;
+  --primary: #30475e;
+  --secondary: #222831;
+}
+
+
+*{
+  box-sizing: border-box;
+}
+
+html, body {
+  /* height: 100vh;
+  margin: 0;
+  overflow: visible !important; */
+}
+
+.app-container{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--background);
+}

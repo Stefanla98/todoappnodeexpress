@@ -1,0 +1,26 @@
+.form-container{
+    background-color:var(--primary);
+    padding:2%;
+
+}
+.form-container > *{
+    color: white;
+}
+
+
+.error-text{
+    color: red;
+    font-weight: bold;
+    position: relative;
+    top:5px;
+}
+
+Label{
+    margin-right: 10px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
